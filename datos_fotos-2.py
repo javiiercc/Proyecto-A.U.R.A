@@ -33,7 +33,7 @@ fotos_db = {
         "a005": "https://res.cloudinary.com/dbb3ujvhb/image/upload/v1780965079/WhatsApp_Image_2026-06-08_at_20.23.06_1_bzgxtc.jpg",
         "a004": "https://res.cloudinary.com/dbb3ujvhb/image/upload/v1780965079/WhatsApp_Image_2026-06-08_at_20.23.06_p4a86x.jpg",
         "a003": "https://res.cloudinary.com/dbb3ujvhb/image/upload/v1781014077/IMG-20260609-WA0001_woeyqt.jpg",
-        "a002": "",
+        "a002": "https://res.cloudinary.com/dbb3ujvhb/image/upload/v1781014077/IMG-20260609-WA0003_pk4e4s.jpg",
         "a001": "https://res.cloudinary.com/dhf6mbjok/image/upload/v1781018985/WhatsApp_Image_2026-06-09_at_11.18.45_1_havqrf.jpg",
         "testamento": "https://res.cloudinary.com/dbb3ujvhb/image/upload/v1781014078/IMG-20260609-WA0006_1_fhwqvc.jpg",
     }

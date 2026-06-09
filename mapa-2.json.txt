@@ -1,0 +1,302 @@
+   {
+  "entrada_vicuna_mackenna": {
+    "int_1": {"distancia": 18, "pitch": -1, "yaw": -7},
+    "int_4": {"distancia": 68, "pitch": -1, "yaw": -12}
+  },
+  "int_1": {
+    "entrada_vicuna_mackenna": {"distancia": 18, "pitch": 2, "yaw": 176},
+    "int_2": {"distancia": 12, "pitch": 2.7, "yaw": 80},
+    "int_4": {"distancia": 50, "pitch": -1, "yaw": -4}
+  },
+  "int_2": {
+    "int_1": {"distancia": 12, "pitch": 0, "yaw": 83},
+    "int_3": {"distancia": 13, "pitch": 0, "yaw": 176},
+    "a016": {"distancia": 29, "pitch": 0, "yaw": 83},
+    "int_9": {"distancia": 31, "pitch": 0, "yaw": 176}
+  },
+  "int_3": {
+    "int_2": {"distancia": 13, "pitch": 0, "yaw": 89},
+    "a016": {"distancia": 16, "pitch": -1, "yaw": -86},
+    "a015": {"distancia": 62, "pitch": 0, "yaw": -4},
+    "a014": {"distancia": 54, "pitch": 0, "yaw": -4},
+    "a013": {"distancia": 50, "pitch": 0, "yaw": -4},
+    "a012": {"distancia": 46, "pitch": 2.4, "yaw": -4},
+    "int_9": {"distancia": 18, "pitch": -1, "yaw": -95},
+    "int_5": {"distancia": 87, "pitch": 0, "yaw": -4},
+    "caja": {"distancia": 77, "pitch": 0, "yaw": -4}
+  },
+  "int_4": {
+    "entrada_vicuna_mackenna": {"distancia": 68, "pitch": 1, "yaw": 87},
+    "int_1": {"distancia": 50, "pitch": -1, "yaw": 87},
+    "int_11": {"distancia": 16, "pitch": -1, "yaw": -4},
+    "fablab": {"distancia": 67, "pitch": -1, "yaw": -4},
+    "int_10": {"distancia": 104, "pitch": -1, "yaw": -4}
+  },
+  "int_11": {
+    "int_4": {"distancia": 16, "pitch": -1, "yaw": -4},
+    "fablab": {"distancia": 51, "pitch": -1, "yaw": 172},
+    "int_10": {"distancia": 88, "pitch": -1, "yaw": 172}
+  },
+  "fablab": {
+    "int_4": {"distancia": 67, "pitch": -1, "yaw": -96},
+    "int_11": {"distancia": 51, "pitch": -1, "yaw": -96},
+    "int_10": {"distancia": 37, "pitch": -1, "yaw": 78},
+    "a017": {"distancia": 11, "pitch": -1, "yaw": -170},
+    "a008": {"distancia": 25, "pitch": -1, "yaw": 174}
+  },
+  "a016": {
+    "int_9": {"distancia": 2, "pitch": -1, "yaw": -92},
+    "int_3": {"distancia": 16, "pitch": -1, "yaw": 86},
+    "int_2": {"distancia": 29, "pitch": -1, "yaw": 86}
+  },
+  "int_9": {
+    "a016": {"distancia": 2, "pitch": -1, "yaw": 158},
+    "int_3": {"distancia": 18, "pitch": -1, "yaw": -179},
+    "int_2": {"distancia": 31, "pitch": -1, "yaw": -179},
+    "a004": {"distancia": 12, "pitch": -1, "yaw": 99},
+    "a005": {"distancia": 20, "pitch": -1, "yaw": 99},
+    "a006": {"distancia": 28, "pitch": -1, "yaw": 99},
+    "a007": {"distancia": 36, "pitch": -1, "yaw": 99},
+    "a008": {"distancia": 51, "pitch": -1, "yaw": 99},
+    "baño_1": {"distancia": 44, "pitch": -1, "yaw": 99},
+    "a009": {"distancia": 57, "pitch": -1, "yaw": 99},
+    "a010": {"distancia": 65, "pitch": -1, "yaw": 99},
+    "a011": {"distancia": 73, "pitch": -1, "yaw": 99},
+    "bano_h": {"distancia": 82, "pitch": -1, "yaw": 99}
+  },
+  "a001": {
+    "a009": {"distancia": 6, "pitch": -1, "yaw": 141},
+    "a008": {"distancia": 6, "pitch": -1, "yaw": -146}
+  },
+  "a002": {
+     "a010" : {"distancia": 6, "pitch": -1, "yaw": -4}
+  },
+  "a003": {
+    "a011": {"distancia": 4, "pitch": -1, "yaw": -158}
+  },
+  "a004": {
+    "int_9": {"distancia": 12, "pitch": -1, "yaw": 73},
+    "a005": {"distancia": 8, "pitch": -1, "yaw": -77},
+    "a006": {"distancia": 16, "pitch": -1, "yaw": -95},
+    "a007": {"distancia": 24, "pitch": -1, "yaw": -95},
+    "a008": {"distancia": 39, "pitch": -1, "yaw": -95},
+    "baño_1": {"distancia": 32, "pitch": -1, "yaw": -95},
+    "a009": {"distancia": 45, "pitch": -1, "yaw": -95},
+    "a010": {"distancia": 53, "pitch": -1, "yaw": -95},
+    "a011": {"distancia": 61, "pitch": -1, "yaw": -95},
+    "bano_h": {"distancia": 70, "pitch": -1, "yaw": -95}
+  },
+  "a005": {
+    "int_9": {"distancia": 20, "pitch": -1, "yaw": 82},
+    "a004": {"distancia": 8, "pitch": -1, "yaw": 58},
+    "a006": {"distancia": 8, "pitch": -1, "yaw": -94},
+    "a007": {"distancia": 16, "pitch": -1, "yaw": -97},
+    "a008": {"distancia": 31, "pitch": -1, "yaw": -97},
+    "baño_1": {"distancia": 24, "pitch": -1, "yaw": -97},
+    "a009": {"distancia": 37, "pitch": -1, "yaw": -97},
+    "a010": {"distancia": 45, "pitch": -1, "yaw": -97},
+    "a011": {"distancia": 53, "pitch": -1, "yaw": -97},
+    "bano_h": {"distancia": 62, "pitch": -1, "yaw": -97}
+  },
+  "a006": {
+    "int_9": {"distancia": 28, "pitch": -1, "yaw": 78},
+    "a004": {"distancia": 16, "pitch": -1, "yaw": 78},
+    "a005": {"distancia": 8, "pitch": -1, "yaw": 56},
+    "a007": {"distancia": 8, "pitch": -1, "yaw": -90},
+    "a008": {"distancia": 23, "pitch": -1, "yaw": -100},
+    "baño_1": {"distancia": 16, "pitch": -1, "yaw": -100},
+    "a009": {"distancia": 29, "pitch": -1, "yaw": -100},
+    "a010": {"distancia": 37, "pitch": -1, "yaw": -100},
+    "a011": {"distancia": 45, "pitch": -1, "yaw": -100},
+    "bano_h": {"distancia": 54, "pitch": -1, "yaw": -100}
+  },
+  "a007": {
+    "int_9": {"distancia": 36, "pitch": -1, "yaw": 81},
+    "a004": {"distancia": 24, "pitch": -1, "yaw": 81},
+    "a005": {"distancia": 16, "pitch": -1, "yaw": 79},
+    "a006": {"distancia": 8, "pitch": -1, "yaw": 58},
+    "a008": {"distancia": 15, "pitch": -1, "yaw": -94},
+    "baño_1": {"distancia": 8, "pitch": -1, "yaw": -84},
+    "a009": {"distancia": 21, "pitch": -1, "yaw": -100},
+    "a010": {"distancia": 29, "pitch": -1, "yaw": -100},
+    "a011": {"distancia": 37, "pitch": -1, "yaw": -100},
+    "bano_h": {"distancia": 46, "pitch": -1, "yaw": -100}
+  },
+  "baño_1": {
+    "int_9": {"distancia": 44, "pitch": -1, "yaw": 85},
+    "a004": {"distancia": 32, "pitch": -1, "yaw": 85},
+    "a005": {"distancia": 24, "pitch": -1, "yaw": 85},
+    "a006": {"distancia": 16, "pitch": -1, "yaw": 76},
+    "a007": {"distancia": 8, "pitch": -1, "yaw": 64},
+    "a017": {"distancia": 15, "pitch": -1, "yaw": -132},
+    "a008": {"distancia": 7, "pitch": -1, "yaw": -51},
+    "a009": {"distancia": 13, "pitch": -1, "yaw": -75},
+    "a010": {"distancia": 21, "pitch": -1, "yaw": -85},
+    "a011": {"distancia": 29, "pitch": -1, "yaw": -85},
+    "bano_h": {"distancia": 38, "pitch": -1, "yaw": -85}
+  },
+  "a017": {
+    "baño_1": {"distancia": 15, "pitch": -1, "yaw": -65},
+    "fablab": {"distancia": 11, "pitch": -1, "yaw": 81},
+     "a008": {"distancia": 14, "pitch": -1, "yaw": -88}
+  },
+  "a009": {
+    "int_9": {"distancia": 57, "pitch": -1, "yaw": 87},
+    "a004": {"distancia": 45, "pitch": -1, "yaw": 87},
+    "a005": {"distancia": 37, "pitch": -1, "yaw": 87},
+    "a006": {"distancia": 29, "pitch": -1, "yaw": 87},
+    "a007": {"distancia": 21, "pitch": -1, "yaw": 82},
+    "baño_1": {"distancia": 13, "pitch": -1, "yaw": 76},
+    "a008": {"distancia": 6, "pitch": -1, "yaw": 61},
+    "a001": {"distancia": 6, "pitch": -1, "yaw": 140},
+    "a010": {"distancia": 8, "pitch": -1, "yaw": -69},
+    "a011": {"distancia": 16, "pitch": -1, "yaw": -79},
+    "bano_h": {"distancia": 25, "pitch": -1, "yaw": -88}
+  },
+  "a008": {
+    "int_9": {"distancia": 51, "pitch": -1, "yaw": 71},
+    "a004": {"distancia": 39, "pitch": -1, "yaw": 71},
+    "a005": {"distancia": 31, "pitch": -1, "yaw": 71},
+    "a006": {"distancia": 23, "pitch": -1, "yaw": 71},
+    "a007": {"distancia": 15, "pitch": -1, "yaw": 71},
+    "baño_1": {"distancia": 7, "pitch": -1, "yaw": 52},
+    "a009": {"distancia": 6, "pitch": -1, "yaw": -110},
+    "a010": {"distancia": 14, "pitch": -1, "yaw": -110},
+    "a011": {"distancia": 22, "pitch": -1, "yaw": -110},
+    "bano_h": {"distancia": 31, "pitch": -1, "yaw": -110},
+    "a001": {"distancia": 6, "pitch": -1, "yaw": -179},
+    "a017": {"distancia": 14, "pitch": -1, "yaw": 158},
+    "fablab": {"distancia": 25, "pitch": -1, "yaw": 160}
+  },
+  "a010": {
+    "int_9": {"distancia": 65, "pitch": -1, "yaw": 81},
+    "a004": {"distancia": 53, "pitch": -1, "yaw": 81},
+    "a005": {"distancia": 45, "pitch": -1, "yaw": 81},
+    "a006": {"distancia": 37, "pitch": -1, "yaw": 81},
+    "a007": {"distancia": 29, "pitch": -1, "yaw": 75},
+    "baño_1": {"distancia": 21, "pitch": -1, "yaw": 80},
+    "a009": {"distancia": 8, "pitch": -1, "yaw": 60},
+    "a008": {"distancia": 14, "pitch": -1, "yaw": -170},
+    "a011": {"distancia": 8, "pitch": -1, "yaw": -78},
+    "bano_h": {"distancia": 17, "pitch": -1, "yaw": -89},
+    "a002": {"distancia": 6, "pitch": -1, "yaw": 168}
+  },
+  "a011": {
+    "int_9": {"distancia": 73, "pitch": -1, "yaw": 76},
+    "a004": {"distancia": 61, "pitch": -1, "yaw": 76},
+    "a005": {"distancia": 53, "pitch": -1, "yaw": 76},
+    "a006": {"distancia": 45, "pitch": -1, "yaw": 76},
+    "a007": {"distancia": 37, "pitch": -1, "yaw": 76},
+    "baño_1": {"distancia": 29, "pitch": -1, "yaw": 76},
+    "a008": {"distancia": 22, "pitch": -1, "yaw": 76},
+    "a009": {"distancia": 16, "pitch": -1, "yaw": 67},
+    "a010": {"distancia": 8, "pitch": -1, "yaw": -57},
+    "a003": {"distancia": 4, "pitch": -1, "yaw": -152},
+    "bano_h": {"distancia": 9, "pitch": -1, "yaw": -76}
+  },
+  "bano_h": {
+    "int_9": {"distancia": 82, "pitch": -1, "yaw": 89},
+    "a004": {"distancia": 70, "pitch": -1, "yaw": 89},
+    "a005": {"distancia": 62, "pitch": -1, "yaw": 89},
+    "a006": {"distancia": 54, "pitch": -1, "yaw": 89},
+    "a007": {"distancia": 46, "pitch": -1, "yaw": 89},
+    "baño_1": {"distancia": 38, "pitch": -1, "yaw": 89},
+    "a008": {"distancia": 31, "pitch": -1, "yaw": 89},
+    "a009": {"distancia": 25, "pitch": -1, "yaw": 89},
+    "a010": {"distancia": 17, "pitch": -1, "yaw": 79},
+    "a011": {"distancia": 9, "pitch": -1, "yaw": 66},
+    "testamento": {"distancia": 14, "pitch": -1, "yaw": -105},
+    "int_10": {"distancia": 16, "pitch": 0, "yaw": -162}
+  },
+  "a015": {
+    "int_3": {"distancia": 62, "pitch": 0, "yaw": 170},
+    "a014": {"distancia": 8, "pitch": 0, "yaw": 157},
+    "a013": {"distancia": 12, "pitch": 0, "yaw": 163},
+    "a012": {"distancia": 16, "pitch": 0, "yaw": 167},
+    "int_5": {"distancia": 25, "pitch": 0, "yaw": -5},
+    "caja": {"distancia": 15, "pitch": 0, "yaw": 2}
+  },
+  "a014": {
+    "int_3": {"distancia": 54, "pitch": 0, "yaw": 84},
+    "a015": {"distancia": 8, "pitch": 0, "yaw": -85},
+    "a013": {"distancia": 4, "pitch": 0, "yaw": 70},
+    "a012": {"distancia": 8, "pitch": 0, "yaw": 78},
+    "caja": {"distancia": 23, "pitch": -1, "yaw": 1},
+    "int_5": {"distancia": 33, "pitch": 0, "yaw": -7}
+  },
+  "a013": {
+    "int_3": {"distancia": 50, "pitch": 0, "yaw": 82},
+    "a015": {"distancia": 12, "pitch": 0, "yaw": -82},
+    "a014": {"distancia": 4, "pitch": 0, "yaw": -70},
+    "a012": {"distancia": 4, "pitch": 0, "yaw": 68},
+    "caja": {"distancia": 27, "pitch": -1, "yaw": -86},
+    "int_5": {"distancia": 37, "pitch": 0, "yaw": -86}
+  },
+  "a012": {
+    "int_3": {"distancia": 46, "pitch": 0, "yaw": 86},
+    "a013": {"distancia": 4, "pitch": 0, "yaw": -69},
+    "a014": {"distancia": 8, "pitch": 0, "yaw": -79},
+    "a015": {"distancia": 16, "pitch": 2, "yaw": -84},
+    "caja": {"distancia": 31, "pitch": -1, "yaw": -87},
+    "int_5": {"distancia": 41, "pitch": 0, "yaw": -87}
+  },
+  "int_5": {
+    "int_3": {"distancia": 87, "pitch": 0, "yaw": -97},
+    "a015": {"distancia": 25, "pitch": 0, "yaw": -97},
+    "a014": {"distancia": 33, "pitch": 0, "yaw": -97},
+    "a013": {"distancia": 37, "pitch": 0, "yaw": -97},
+    "a012": {"distancia": 41, "pitch": 0, "yaw": -97},
+    "caja": {"distancia": 10, "pitch": 0, "yaw": -97},
+    "baño_2": {"distancia": 14, "pitch": 0, "yaw": -97},
+    "testamento": {"distancia": 22, "pitch": 0, "yaw": 2},
+    "int_23": {"distancia": 7, "pitch": 0, "yaw": 46}
+  },
+  "re": {
+    "int_23": {"distancia": 7, "pitch": 0, "yaw": 56},
+    "int_6": {"distancia": 9, "pitch": 0, "yaw": 165}
+  },
+  "int_23": {
+    "re": {"distancia": 7, "pitch": 0, "yaw": 171},
+    "int_5": {"distancia": 7, "pitch": 0, "yaw": -19}
+  },
+  "baño_2": {
+    "int_5": {"distancia": 14, "pitch": 0, "yaw": -90},
+    "int_6": {"distancia": 12, "pitch": 0, "yaw": -162},
+    "testamento": {"distancia": 8, "pitch": 0, "yaw": 79}
+  },
+  "testamento": {
+    "bano_h": {"distancia": 14, "pitch": 0, "yaw": 151},
+    "baño_2": {"distancia": 8, "pitch": 0, "yaw": 95},
+    "int_5": {"distancia": 22, "pitch": 0, "yaw": 82},
+    "int_8": {"distancia": 24, "pitch": 0, "yaw": 3},
+    "int_6": {"distancia": 14.4, "pitch": 0, "yaw": 42}
+  },
+  "int_8": {
+    "testamento": {"distancia": 24, "pitch": 0, "yaw": 175},
+    "int_7": {"distancia": 7, "pitch": 0, "yaw": 87}
+  },
+  "int_7": {
+    "int_8": {"distancia": 7, "pitch": 0, "yaw": -83},
+    "int_6": {"distancia": 12, "pitch": 0, "yaw": 160}
+  },
+  "int_6": {
+    "re": {"distancia": 9, "pitch": 0, "yaw": 169},
+    "baño_2": {"distancia": 12, "pitch": 0, "yaw": -82},
+    "int_7": {"distancia": 12, "pitch": 0, "yaw": 76},
+    "testamento": {"distancia": 14.4, "pitch": 0, "yaw": -52}
+  },
+  "int_10": {
+    "bano_h": {"distancia": 16, "pitch": 0, "yaw": 176},
+    "fablab": {"distancia": 37, "pitch": -1, "yaw": -97},
+    "int_11": {"distancia": 88, "pitch": -1, "yaw": -97},
+    "int_4": {"distancia": 104, "pitch": -1, "yaw": -97}
+  },
+  "caja": {
+    "int_3": {"distancia": 77, "pitch": 0, "yaw": 90},
+    "a015": {"distancia": 15, "pitch": 0, "yaw": 90},
+    "a014": {"distancia": 23, "pitch": -1, "yaw":90},
+    "a013": {"distancia": 27, "pitch": -1, "yaw": 90},
+    "a012": {"distancia": 31, "pitch": -1, "yaw": 90},
+    "int_5": {"distancia": 10, "pitch": 0, "yaw": -100}
+  }
+}
